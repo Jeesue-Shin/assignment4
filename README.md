@@ -1,5 +1,6 @@
 # 성적산출 프로그램 (국어, 수학, 영어)
 
+```python
 #학생 수 입력
 while True:
     try:
@@ -152,7 +153,7 @@ sort_ranking(kor, "국어")
 sort_ranking(math, "수학")
 sort_ranking(eng, "영어")
 
-
+```
 
 
 
